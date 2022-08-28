@@ -1,6 +1,6 @@
 ## 7DaysOfCode 💻
 
-### Neste desafio proposto por Rafaella Ballerine instrutora Front-End na Alura, irei me desafiar a realizar 7 desafios envolvendo lógica de programação usando JavaScript durante 7 dias.
+#### Neste desafio proposto por Rafaella Ballerine instrutora Front-End na Alura, irei me desafiar a realizar 7 desafios envolvendo lógica de programação usando JavaScript durante 7 dias.
 
 ## Conteúdos estudados ⚔
 
@@ -30,6 +30,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.s
 
 ## Como testar os comandos?
 
-### 1️⃣ Dentro do seu navegador, clicando com o botão direito, escolhendo a opção “Inspecionar” e a aba “Console”. Basta copiar e colar cada uma das linha de código.
+#### 1️⃣ Dentro do seu navegador, clicando com o botão direito, escolhendo a opção “Inspecionar” e a aba “Console”. Basta copiar e colar cada uma das linha de código.
 
-### 2️⃣ Ou se o seu editor de texto for o VsCode, dentro arquivo HTML basta utilizar o atalho alt + l + o que através da extensão Live Server irá ser executado os códigos e exibido diretamente no console do seu navegador.
+#### 2️⃣ Ou se o seu editor de texto for o VsCode, dentro arquivo HTML basta utilizar o atalho alt + l + o que através da extensão Live Server irá ser executado os códigos e exibido diretamente no console do seu navegador.
