@@ -1,10 +1,10 @@
 ## 7DaysOfCode 💻
 
-#### Neste desafio revisei conhecimentos no âmbito de que variáveis são os blocos básicos de construção de qualquer sistema e são essenciais para processar qualquer tipo de informação,  sendo muito importante entender como capturar e armazenar valores dentro delas.
+#### Neste desafio revisei conhecimentos no âmbito de tipos de variáveis e operadores de comparação.
 
 ## Conteúdo estudado ⚔
 
-- 2/7: Variáveis
+- 1/7: Operadores de comparação.
 
 ## Tecnologias utilizadas:
 
