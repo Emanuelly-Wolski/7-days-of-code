@@ -1,10 +1,10 @@
 ## 7DaysOfCode 💻
 
-#### Neste desafio revisei conhecimentos no âmbito de tipos de variáveis e operadores de comparação.
+#### Neste desafio revisei conhecimentos no âmbito de operações booleanas.
 
 ## Conteúdo estudado ⚔
 
-- 1/7: Operadores de comparação.
+- 1/7: Operações Boolenas.
 
 ## Tecnologias utilizadas:
 
