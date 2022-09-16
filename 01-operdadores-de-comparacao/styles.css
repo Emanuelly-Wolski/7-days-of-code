@@ -1,11 +1,30 @@
 body{
-    background-color: rgb(138, 135, 135);
+    background-color: rgb(206, 197, 197);
 }
 
-h1{
-    font-size: 28px;
+.container{
+    background-color: black;
+    width: 600px;
+    height: 300px;
+    margin-left: 380px;
+    margin-top: 150px;
+    border-radius: 15px;
+}
+ 
+.container h1{
+    padding: 40px;
+    font-size: 34px;
+    font-weight: bold;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color:rgb(235, 235, 12);
     text-align: center;
-    margin-top: 350px;
+}
+
+.container p{
+    font-size: 14px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:aliceblue;
+    text-align: center;
+    margin-left: 30px;
+    margin-right: 30px;
 }
