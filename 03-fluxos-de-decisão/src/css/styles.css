@@ -1,0 +1,63 @@
+body{
+    max-width: 1580px;
+    background: hsl(257, 40%, 49%)  url(/images/fundo-de-montanhas.jpg);
+    background-size: cover;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+}
+
+.main{
+    background-color: #165578;
+    width: 600px;
+    height: 450px;
+    margin-left: 400px;
+    margin-top: 70px;
+    border-radius: 30px;
+}
+
+.titulo{
+    text-align: center;
+    padding-top:80px;
+    font-size: 30px;
+    font-weight:bold;
+    height: 60px;
+    color: rgb(235, 86, 60);
+}
+
+.msg-boas-vindas{
+    margin-top: 70px;
+    text-align: center;
+    font-size: 18px;
+    font-weight:bold;
+}
+
+.texto-explicativo{
+    margin-top: 30px;
+    margin-left: 80px;
+    margin-right: 80px;
+    text-align: center;
+    font-size: 15px;
+    color: rgb(240, 224, 224);
+    line-height: 1.5;
+}
+
+.btn-iniciar a{
+    background-color:  rgb(219, 101, 81);
+    text-decoration: none;
+    display: flex;
+    padding: 28px;
+    width: 160px;
+    margin-left: 220px;
+    margin-top: 50px;
+    border-radius: 15px;
+    border-style: none;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.btn-iniciar a:hover{
+    background-color: rgb(50, 190, 221);
+    transition: 0.3s ease-in-out;
+}
+
